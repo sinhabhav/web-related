@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hw3.png</title>
+	<LINK href="hw3Stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+<body class="body1">
+<div class="headerArea">
+	<img src="header.png" alt ="img cannot be displayed" border=0>
+	<h2><font color=#252F33>A Blue Green Web Page</h2>
+</div>	
+<div class="BarArea">
+	<img src="bar.png" alt ="img cannot be displayed" border=0>
+	<h5><a href="hw3_page2.html#section1" target="_blank">
+		<font color=#252F33><span class="linkFont"><span style="padding-left:20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Info&nbsp;&nbsp;&nbsp;</span></a>
+		<a href="hw3_page2.html#section2" target="_blank">
+		<font color=#252F33><span class="linkFont"><span style="padding-left:40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About&nbsp;&nbsp;</span></a>
+		<a href="hw3_page2.html#section3" target="_blank">
+		<font color=#252F33><span class="linkFont"><span style="padding-left:30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio&nbsp;&nbsp;</span></a>
+		<a href="hw3_page2.html#section4" target="_blank">
+		<font color=#252F33><span class="linkFont"><span style="padding-left:30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Services&nbsp;&nbsp;</span></a>
+		<a href="hw3_page2.html#section5" target="_blank">
+		<font color=#252F33><span class="linkFont"><span style="padding-left:30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;&nbsp;</span></a>
+	</h5>
+	
+</div>	
+<!--<div class="BodyArea">-->
+	<div style="background-color:#869C80; color:#101214;margin-top:-3%;margin-bottom:150%;width:680px;height:653px;position:relative;">
+	<p><span class="span1">The Article Title</span><br>
+	<span class="span2">You may use this template on any site, anywhere,</span><br><br>
+	<span class="span3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</span>
+    </p>
+
+</div>
+<noscript>
+</body>	
+</html>
